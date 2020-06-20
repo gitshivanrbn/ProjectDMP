@@ -1,6 +1,7 @@
 /*********
   Sending acceleration data received from an MPU-6050 sensor over a lora connection
-  Modified from the examples of the Arduino LoRa library and "MPU6050" by Raushancpr
+  Modified from the examples of the Arduino LoRa library and "MPU6050" by Raushancpr
+  (re)written in the notes app of my phone because my laptop broke down. Untested. -Herma 
 *********/
 
 #include <SPI.h>
